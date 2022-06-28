@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Irushapekshana
 - 👀 I’m interested in programing language and technology
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Java Script
 😉😊👌👍
 
 <!---
